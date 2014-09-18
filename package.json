@@ -1,6 +1,7 @@
 {
   "name": "froggyfrog",
   "author": "Dino Kraljević",
+  "version": "0.0.1",
   "description": "A Membership system patterned after Devise.",
   "dependencies": {},
   "devDependencies": {
